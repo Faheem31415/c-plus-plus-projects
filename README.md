@@ -1,2 +1,2 @@
 # c-plus-plus-projects
-c++ folder
+c++ projects
